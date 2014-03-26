@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sucursales">
+        <item>Bogota</item>
+        <item>Medellin</item>
+        <item>Cali</item>
+        <item>Cartagena</item>
+        <item>Barranquilla</item>
+
+    </string-array>
+
+
+</resources>
